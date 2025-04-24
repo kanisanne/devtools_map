@@ -1,0 +1,28 @@
+# making map element full screen
+
+const mapElement = document.querySelector('.gm-style');
+const data = {
+  mapElementInfo: mapElement
+    ? {
+        tagName: mapElement.tagName,
+        id: mapElement.id,
+        className: mapElement.className,
+        childrenCount: mapElement.children.length,
+        children: Array.from(mapElement.children).map((child) => ({
+          tagName: child.tagName,
+          id: child.id,
+          className: child.className,
+        })),
+      }
+    : null,
+};
+const newStyles = {
+  width: '100vw',
+  height: '100vh',
+  position: 'fixed',
+  top: '0',
+  left: '0',
+  zIndex: '10000',
+  display: 'block',
+};
+await setElementStyles(mapElement, newStyles);
