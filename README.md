@@ -4,7 +4,7 @@ https://www.eurofiber.com/nl-nl/glasvezelnetwerk/glasvezel-kaart
 
 first open browser developer tools
 
-fullscreen-map can be pasted in the console of the developer tools
+fullscreen_map can be pasted in the console of the developer tools
 
 delete lines to identify basemap and line layers:
 
