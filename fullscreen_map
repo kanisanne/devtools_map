@@ -1,5 +1,3 @@
-# making map element full screen
-
 const mapElement = document.querySelector('.gm-style');
 const data = {
   mapElementInfo: mapElement
