@@ -6,6 +6,11 @@ first open browser developer tools
 
 fullscreen-map can be pasted in the console of the developer tools
 
+delete lines to identify basemap and line layers:
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/89f803d3-e2b0-4884-9bff-38acf5346cbd)
+
+
 html_amsterdam is the page i navigated to of the fiber network lines without the google maps basemap and zoomed to amsterdam. right click on html → edit as html → replace
 
 ![Screenshot 2025-04-24 183307](https://github.com/user-attachments/assets/c1721b76-9051-4def-a512-e08a0462bf22)
