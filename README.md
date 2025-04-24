@@ -4,9 +4,9 @@ https://www.eurofiber.com/nl-nl/glasvezelnetwerk/glasvezel-kaart
 
 first open browser developer tools
 
-fullscreen-map is a python code to put in the console/terminal
+fullscreen-map can be pasted in the console of the developer tools
 
-html_amsterdam is the html code of the page i navigated to of the fiber network lines without the google maps basemap and zoomed to amsterdam. right click on html → edit as html → replace
+html_amsterdam is the page i navigated to of the fiber network lines without the google maps basemap and zoomed to amsterdam. right click on html → edit as html → replace
 
 ![Screenshot 2025-04-24 183307](https://github.com/user-attachments/assets/c1721b76-9051-4def-a512-e08a0462bf22)
 
